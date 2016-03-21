@@ -14,3 +14,9 @@
   * [XML Elements and Attributes](designing-android-apps/xml-elements-attributes.md)
   * [Challenge: Identifying Layouts](designing-android-apps/challenge-layout.md)
 * [Android Development with Java](android-development-with-java/README.md)
+  * [Introduction to Java]()
+  * [Java Data Types]()
+  * [Challenge: Example Android App]()
+  * [Designing a Calculator]()
+  * [Programming a Calculator]()
+  * [Testing Our App]
