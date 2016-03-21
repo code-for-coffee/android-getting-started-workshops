@@ -17,7 +17,7 @@ This section contains information about installing Java, Android Studio
 
 ## Design Android Apps
 
-This section contains notes, examples, source code, and lesson notes for the **Design for Android Apps Workshop**. This workshop's target audience is anyone with an interest in application development. No prior programming knowledge is required. Some programming concepts will be introduced.
+This section contains notes, examples, source code, and lesson notes for the **Designing Android Apps Workshop**. This workshop's target audience is anyone with an interest in application development. No prior programming knowledge is required. Some programming concepts will be introduced.
 
 #### Objectives
 
@@ -42,13 +42,3 @@ After this workshop, students will be able to:
 - Write code in Java to make the user interface interactive.
 - Describe the Java build process.
 - Test their application on an Android device.
-
-#### Goals of this Workshop
-
-While learning about Android, you will learn:
-* The basic syntax of the Java language
-* What the Java Virtual Machine (JVM) and Java Runtime Environment (JRE) are.
-* How to use an Integrated Development Environment (IDE) such as **Android Studio**.
-* Common Java libraries and frameworks, and how they can be leveraged to quickly build robust applications.
-* The basics of the Android platform and how Java fits into the picture
-* How to take this knowledge to build a simple Android app.
