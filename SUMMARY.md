@@ -8,7 +8,7 @@
 * [Designing Android Apps](designing-android-apps/README.md)
   * [Creating an Android Project](designing-android-apps/creating-android-project.md)
   * [Android Studio Layout Designer](designing-android-apps/android-studio-layout.md)
-  * [Designing an App with Components](designing-android-apps/designing-android-app.md)
+  * [Challenge: Design an App](designing-android-apps/challenge-designing-android-app)
   * [Introduction to XML](designing-android-apps/xml-introduction.md)
   * [XML Elements and Attributes](designing-android-apps/xml-elements-attributes.md)
   * [Challenge: Identifying Layouts](designing-android-apps/challenge-layout.md)
