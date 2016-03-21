@@ -20,4 +20,4 @@ This section contains notes, examples, source code, and more for the **Android D
 
 ## Feedback? Comments? Questions?
 
-These materials were created and compiled by James Traver (james @ codeforcoffee . org). You may view the raw resources on [this Github repository](https://github.com/code-for-coffee/android-getting-started-workshops). You may [submit an issue](https://github.com/code-for-coffee/android-getting-started-workshops/issues), also! Feedback is awesome!
+These materials were created and compiled by James Traver, WDI Instructor at GA Chicago (james @ codeforcoffee . org). You may view the raw resources on [this Github repository](https://github.com/code-for-coffee/android-getting-started-workshops). You may [submit an issue](https://github.com/code-for-coffee/android-getting-started-workshops/issues), also! Feedback is awesome!
