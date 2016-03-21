@@ -10,35 +10,14 @@ During these workshops, you will explore how Android apps are designed. Then, yo
 
 This section contains information about installing Java, Android Studio
 
-#### Objectives
-- Get Java installed on your computer.
-- Install Android Studio on your computer.
-- Enable USB Debugging on your Android device.
-
 ## Design Android Apps
 
 This section contains notes, examples, source code, and lesson notes for the **Designing Android Apps Workshop**. This workshop's target audience is anyone with an interest in application development. No prior programming knowledge is required. Some programming concepts will be introduced.
-
-#### Objectives
-
-After this workshop, students will be able to:
-
-* Define what an Android **Layout** is and where they are located.
-* Practice how to add user interface **Components** to a *Layout*.
-* Understand the basic structure of **XML** and **elements**.
-* Create and edit *Components* using *XML*.
-* Design the user interface for an app using a **Design** GUI and **Text** editor.
 
 ## Android Development with Java
 
 This section contains notes, examples, source code, and more for the **Android Development with Java Workshop**. This workshop's target audience is anyone curious about programming or some programming skills. It is designed to introduce Java as a programing language and environment at a high level while learning enough code to create an interactive application.
 
-#### Objectives
+## Feedback? Comments? Questions?
 
-After this workshop, students will be able to:
-- Identify their Android version.
-- Use their computer connect to an Android device.
-- Use Android Studio to design an app's user interface.
-- Write code in Java to make the user interface interactive.
-- Describe the Java build process.
-- Test their application on an Android device.
+These materials were created and compiled by James Traver (james @ codeforcoffee . org). You may view the raw resources on [this Github repository](https://github.com/code-for-coffee/android-getting-started-workshops). You may [submit an issue](https://github.com/code-for-coffee/android-getting-started-workshops/issues), also! Feedback is awesome!
