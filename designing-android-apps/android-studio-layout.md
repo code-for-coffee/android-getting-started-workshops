@@ -1,4 +1,4 @@
-## Android Studio Layout Designer
+# Android Studio Layout Designer
 
 Let's identify the moving parts of the **Android Studio Layout Designer**!
 
