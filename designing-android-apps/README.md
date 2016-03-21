@@ -1,6 +1,6 @@
 # Designing Android Apps
 
-This section contains notes, examples, source code, and lesson notes for the **Designing Android Apps Workshop**. This workshop's target audience is anyone with an interest in application development. No prior programming knowledge is required. Some programming concepts will be introduced.
+This section contains notes, examples, source code, and lesson notes for the **Designing Android Apps Workshop**. This workshop's target audience is anyone with an interest in application development. No prior programming knowledge is required. Some programming concepts will be introduced. During this workshop, students will learn how to design an Android app from scratch and learn the underlying technology that power the design and layout of Android apps - XML.
 
 ## Objectives
 
