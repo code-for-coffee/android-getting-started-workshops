@@ -1,4 +1,6 @@
-## Java Data Types
+# Java Data Types
+
+We're going to need to understand some Java to make our app come to life. Let's take a look into some basic Java data types.
 
 * **int** - 32bit (4byte) integer value. Used for integer numbers. 0, -2, 42.
 * **short** - 16-bit (2byte) integer value
@@ -9,3 +11,10 @@
 * **char** - 16bit character (unicode)
 * **boolean** - true or false
 * **String** - Just lines of text.
+
+
+## What are these used for?
+
+* Let' discuss how we store data.
+* Integers vs Doubles/Floats
+* True/False conditions and general logic.
