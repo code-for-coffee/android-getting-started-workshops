@@ -6,6 +6,7 @@
   * [Installing Android Studio](getting-started/installing-android-studio.md)
   * [Enabling USB Debugging](getting-started/enabling-usb-debugging.md)
 * [Designing Android Apps](designing-android-apps/README.md)
+  * [Creating an Android Project](designing-android-apps/creating-android-project.md)
   * [Android Studio Layout Designer](designing-android-apps/android-studio-layout.md)
   * [Designing an App with Components](designing-android-apps/designing-android-app.md)
   * [Introduction to XML](designing-android-apps/xml-introduction.md)

@@ -15,4 +15,4 @@ Let's identify the moving parts of the **Android Studio Layout Designer**!
 - Sky Blue: Component Tree
 - Orange: Properties for the selected Component
 
-![img/android_studio_design_layout_designated_layers.png](img/android_studio_design_layout_designated_layers.png)
+![android_studio_design_layout_designated_layers.png](android_studio_design_layout_designated_layers.png)
