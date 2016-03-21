@@ -19,4 +19,5 @@
   * [Challenge: Example Android App]()
   * [Designing a Calculator]()
   * [Programming a Calculator]()
-  * [Testing Our App]
+  * [Testing Our App]()
+  * [Workshop Screencasts]()
