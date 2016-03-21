@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started/README.md)
+  * [Why Android?](getting-started/why_android.md)
   * [Installing Java](getting-started/installing-java.md)
   * [Installing Android Studio](getting-started/installing-android-studio.md)
   * [Enabling USB Debugging](getting-started/enabling-usb-debugging.md)
